@@ -1,0 +1,3 @@
+SpeechRecognition
+deep_translator
+gtts
